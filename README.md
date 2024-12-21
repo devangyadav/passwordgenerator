@@ -1,6 +1,6 @@
 # Random Password Generator
 
-##Link<a href="https://devangyadav.github.io/passwordgenerator"></a>
+## Link <a href="https://devangyadav.github.io/passwordgenerator">Click Here</a>
 
 A simple **Random Password Generator** web application built using **HTML**, **CSS**, and **JavaScript**. This app generates strong, random passwords consisting of uppercase letters, lowercase letters, numbers, and special characters. It also features a 3D rotating model for added interactivity.
 
