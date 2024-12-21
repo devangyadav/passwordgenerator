@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Password Generator</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
+</head>
+
+<body>
+    <div class="main">
+        <div class="container">
+            <h1>Generate a <br> <span>Random Password</span></h1>
+            <div class="display">
+                <input type="text" name="password" id="password" placeholder="Password">
+                <img title="copy" src="icon.png" alt="icon" onclick="copypassword()">
+            </div>
+            <button onclick="createpassword()"><img src="generate.png"> Generate Password</button>
+        </div>
+        <div class="model">
+            <model-viewer src="shiba.glb" alt="3D model of a bee" auto-rotate camera-controls
+                background-color="#ffffff">
+            </model-viewer>
+            <script src="javascript.js"></script>
+        </div>
+    </div>
+</body>
+
+</html>
