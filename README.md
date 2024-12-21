@@ -15,7 +15,7 @@ A simple **Random Password Generator** web application built using **HTML**, **C
 
 ## Screenshots
 
-![Random Password Generator Screenshot](screenshot.png)
+![Random Password Generator Screenshot](Screenshot.png)
 
 ## How It Works
 
