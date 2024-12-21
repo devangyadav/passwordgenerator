@@ -40,4 +40,4 @@ A simple **Random Password Generator** web application built using **HTML**, **C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/random-password-generator.git
+   git clone https://github.com/devangyadav/passwordgenerator.git
